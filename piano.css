@@ -1,0 +1,9 @@
+	h1{ font-family: ariel,vernada;
+		color: #665544;
+		font-size: 50px; }
+		
+	p{	font-family: ariel,italic;
+		color: blue;
+		font-size: 20px;}
+		
+	p>i>b {color: red; }
